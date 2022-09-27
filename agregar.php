@@ -1,8 +1,8 @@
 <?php include("template/cabecera.php"); ?>
 
         <div class="jumbotron">
-            <h1 class="display-3">Jumbo heading</h1>
-            <p class="lead">Jumbo helper text</p>
+            <h1 class="display-3">Agregar</h1>
+            <p class="lead">Espacio para agregar inventario</p>
             <hr class="my-2">
             <p>More info</p>
             <p class="lead">
